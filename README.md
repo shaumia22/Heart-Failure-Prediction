@@ -248,35 +248,12 @@ Confusion Matrix:
 
 ![image](https://github.com/user-attachments/assets/467e2169-5bb5-4ec9-9596-98f725ab26ab)
 
-![image](https://github.com/user-attachments/assets/05860b95-2552-4501-9563-487caa988209)
+![image](https://github.com/user-attachments/assets/7215ab67-0d60-4c96-9e23-e8b0cc1a6f7f)
 
 * Features related to stress tests (ST_Slope_Up, ST_Slope_Flat, and Oldpeak) and exercise-induced angina (ExerciseAngina_Y) dominate the model's predictions.
 * This suggests that clinical indicators observed during stress tests are more predictive than demographic factors like age or general measures like maximum heart rate.
 
 **XGBoost**
-
-Accuracy: 0.8739130434782608
-Precision: 0.8602941176470589
-Recall: 0.9212598425196851
-F1 Score: 0.8897338403041825
-ROC-AUC: 0.8683969115511047
-Confusion Matrix:
-[[ 84  19]
- [ 10 117]]
-Log Loss:4.54463455775825
-RMSE: 0.12608695652173912
-
-Best Parameters: {'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__n_estimators': 60}
-Accuracy: 0.8652173913043478
-Precision: 0.8636363636363636
-Recall: 0.8976377952755905
-F1 Score: 0.8803088803088803
-ROC-AUC: 0.8614402568610962
-Confusion Matrix:
-[[ 85  18]
- [ 13 114]]
-Log Loss:4.858057630707094
-RMSE: 0.13478260869565217
 Classification Report:
               precision    recall  f1-score   support
 
