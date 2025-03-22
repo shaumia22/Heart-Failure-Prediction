@@ -40,7 +40,7 @@ Using the Heart Failure Prediction dataset from Kaggle, our goal is to deploy cl
 ## Risks & Limitations - Mitigation Strategies
 It is important to acknowledge potential risks, limitations and ways to mitigate them to ensure transparency and reliability of the model and data visualizations. The following summarizes the risks & limitations and mitigation plans considered for them:
 
-##1. Data-Related Risks
+1. Data-Related Risks
 
 * **Risk of Bias in Dataset Sources**: The dataset combines data from multiple locations, each with different disease prevalence rates. This may affect model predictions.
  Mitigation: We validated prevalence (55%) to ensure a balanced mix and used class weighting to reduce bias.
@@ -71,19 +71,19 @@ Mitigation: Applied data cleaning techniques and validated predictions across mo
 * Risk of Data Privacy: In real-world applications, compliance with regulations and patient consent is essential.
    * Mitigation: Stated that this dataset is anonymized but advised caution for real-world deployments.
 
-Methods and Technologies
+## Methods and Technologies
 
 We used the following libraries for data preprocessing, model training, and evaluation:
 ###Core Libraries
 * Pandas & Numpy: For data manipulation and analysis (e.g., loading the dataset, handling missing values).
 * scikit-learn: For machine learning tasks:
-     * DecisionTreeClassifier: To build the Decision Tree model.
-     * train_test_split: To split the dataset into training and testing sets.
-     * GridSearchCV: For hyperparameter tuning.
-     * classification_report, confusion_matrix, roc_auc_score, mean_squared_error: For evaluating model performance.
-###Stratification and Cross-Validation
-     * StratifiedKFold: For stratified cross-validation.
-     * cross_val_score: To evaluate the model using cross-validation.
+   * DecisionTreeClassifier: To build the Decision Tree model.
+   * train_test_split: To split the dataset into training and testing sets.
+   * GridSearchCV: For hyperparameter tuning.
+   * classification_report, confusion_matrix, roc_auc_score, mean_squared_error: For evaluating model performance.
+### Stratification and Cross-Validation
+   * StratifiedKFold: For stratified cross-validation.
+   * cross_val_score: To evaluate the model using cross-validation.
 
 ### Visualization Libraries: 
 * Matplotlib for creating static, animated, and interactive visualizations (e.g., bar charts, ROC curves). 
