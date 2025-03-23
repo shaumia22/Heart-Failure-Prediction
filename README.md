@@ -9,7 +9,7 @@ Data: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resou
 | Gina Zhang | Sgjzhang | KNN | https://drive.google.com/file/d/13wLcS-P8cenohMlMKm0v68lfUZjD14x-/view?usp=drive_link (video also here: [Heart-Failure-Prediction/models at main · Sgjzhang/Heart-Failure-Prediction](https://github.com/Sgjzhang/Heart-Failure-Prediction/tree/main/models) |
 | Khatereh Maleki | Malekikh | Logistic Regression | https://drive.google.com/uc?id=1uXBsH8PtTSw6HSp2YnjzDcq-xzw966-a&export=download |
 | Jason Pereira | Jasonpereira0 | Random Forest | https://youtu.be/3yV3YC2iSsA |
-| Shaumia Ranganathan | shaumia22 | XGBoost | |
+| Shaumia Ranganathan | shaumia22 | XGBoost | https://drive.google.com/file/d/13a9VJYFNyj0Aa3IlmVfwGd4UEv3rBM7p/view?usp=drive_link |
 
 ## Project Overview
 This project aims to predict heart disease using a Data Science approach. It utilizes the “Heart Failure Prediction” dataset to analyze 11 key demographic, clinical, and exercise-related features that are significant predictors of heart disease. By combining visualization techniques and employing multiple classifier models after thorough preprocessing and hyperparameter tuning, to support early detection and intervention for individuals with cardiovascular disease or identifying those at high risk due to factors such as hypertension, diabetes, and hyperlipidemia, the best performing predictive model is selected post evaluation to ensure timely medical interventions, ultimately improving patient outcomes and reducing the global burden of CVDs.
