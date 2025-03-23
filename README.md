@@ -6,7 +6,7 @@ Data: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resou
 | Team Members | GitHub Account | Responsibilities | Reflection Video |
 | -------------| ---------------| -----------------| -----------------|
 | Anis Bouwazra | anisess10 | Decision Tree | https://drive.google.com/file/d/1ZlYW3CtXNp1zWHGlquYjldxXuCnAnwxh/view?usp=drive_link |
-| Gina Zhang | Sgjzhang | KNN | https://drive.google.com/file/d/13wLcS-P8cenohMlMKm0v68lfUZjD14x-/view?usp=drive_link (video also here: Heart-Failure-Prediction/models at main · Sgjzhang/Heart-Failure-Prediction |
+| Gina Zhang | Sgjzhang | KNN | https://drive.google.com/file/d/13wLcS-P8cenohMlMKm0v68lfUZjD14x-/view?usp=drive_link (video also here: [Heart-Failure-Prediction/models at main · Sgjzhang/Heart-Failure-Prediction](https://github.com/Sgjzhang/Heart-Failure-Prediction/tree/main/models) |
 | Khatereh Maleki | Malekikh | Logistic Regression | https://drive.google.com/uc?id=1uXBsH8PtTSw6HSp2YnjzDcq-xzw966-a&export=download |
 | Jason Pereira | Jasonpereira0 | Random Forest | https://youtu.be/3yV3YC2iSsA |
 | Shaumia Ranganathan | shaumia22 | XGBoost | |
